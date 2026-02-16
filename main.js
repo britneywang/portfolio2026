@@ -95,10 +95,10 @@
   
     if (typedEl) {
       var phrases = [
-        "I design digital experiences.",
-        "I build fast websites.",
-        "I craft beautiful brands.",
-        "I create intuitive interfaces.",
+        "I research.",
+        "I write.",
+        "I design.",
+        "I film.",
       ];
       var phraseIndex = 0;
       var charIndex = 0;
